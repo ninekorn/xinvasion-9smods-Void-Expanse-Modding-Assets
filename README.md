@@ -5,10 +5,7 @@ Modding for the game Void Expanse. Procedural icons textures generator, procedur
 Edit-2022-oct-10: This is just a draft, from my original release on the Void Expanse Atomic Torch forums. This saturday i decided to develop the complete series of engine icons, procedurally from C#, from the original Void Expanse game.
 
 original:
-<img width=150 src="https://i.ibb.co/pyQWjnP/engine-civilian.png" alt="engine-civilian" border="0">
-
-procedural:
-<img width=350 src="https://i.ibb.co/SJFzKGW/enginestandard.png" alt="enginestandard" border="0">
+<img width=150 src="https://i.ibb.co/pyQWjnP/engine-civilian.png" alt="engine-civilian" border="0">procedural:<img width=350 src="https://i.ibb.co/SJFzKGW/enginestandard.png" alt="enginestandard" border="0">
 
 original:
 <img width=150 src="https://i.ibb.co/BysGB6m/engine-combat-thrusters.png" alt="engine-combat-thrusters" border="0">
