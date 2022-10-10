@@ -2,7 +2,7 @@
 Modding for the game Void Expanse. Procedural icons textures generator, procedural xml file generators. and a lot more.
 
 
-<img src="https://i.ibb.co/WxmQ81D/enginepowerboss.png" alt="enginepowerboss" border="0">
+<img width=250 src="https://i.ibb.co/WxmQ81D/enginepowerboss.png" alt="enginepowerboss" border="0">
 <img src="https://i.ibb.co/Br0Qf5J/enginetrustersadvanced.png" alt="enginetrustersadvanced" border="0">
 <img src="https://i.ibb.co/t46xjq7/engineplasma.png" alt="engineplasma" border="0">
 <img src="https://i.ibb.co/SJFzKGW/enginestandard.png" alt="enginestandard" border="0">
